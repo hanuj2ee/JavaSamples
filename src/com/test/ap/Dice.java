@@ -61,7 +61,7 @@ public class Dice {
 				System.out.println("EMMA");
 				}
 			else if (gunnarTurn > emmaTurn) {
-				System.out.println("GUNNAR");
+				System.out.println("GUNNAr");
 				}
 			else {
 				System.out.println("TIE");
